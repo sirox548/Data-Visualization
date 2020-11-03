@@ -1,0 +1,15 @@
+Wk -- Matchweek Number
+Day -- Day of week
+Date -- Date listed is local to the match
+Time -- Time listed is local to the match venue
+Time is written in the 24-hour notation
+Your local time is in (·)
+xG -- Expected Goals
+xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).
+Provided by StatsBomb.
+An underline indicates there is a match that is missing data, but will be updated when available.
+Score -- Numbers in parentheses indicate goals scored in penalty shootout
+xG -- Expected Goals
+xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).
+Provided by StatsBomb.
+An underline indicates there is a match that is missing data, but will be updated when available.

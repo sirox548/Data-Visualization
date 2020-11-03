@@ -1,0 +1,35 @@
+Rk -- Squad finish in competition
+Finish within the league or competition.
+For knockout competitions may show final round reached.
+Colors and arrows represent promotion/relegation or qualifiation for continental cups.
+Trophy indicates team won league whether by playoffs or by leading the table.
+Star indicates topped table in league USING another means of naming champion.
+MP -- Matches Played
+Matches Played by the player or squad
+W -- Wins
+D -- Draws
+L -- Losses
+GF -- Goals For
+GA -- Goals Against
+GDiff -- Goal Difference
+Pts -- Most leagues are ordered by points.
+Three for a win and one for a draw.
+xG -- Expected Goals
+xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).
+Provided by StatsBomb.
+An underline indicates there is a match that is missing data, but will be updated when available.
+xGA -- Expected Goals Allowed
+xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).
+Provided by StatsBomb.
+An underline indicates there is a match that is missing data, but will be updated when available.
+xGDiff -- Expected Goals Difference
+xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).
+Provided by StatsBomb.
+An underline indicates there is a match that is missing data, but will be updated when available.
+xGDiff/90 -- Expected Goals Difference per 90 Minutes
+xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).
+Provided by StatsBomb.
+An underline indicates there is a match that is missing data, but will be updated when available.
+Attendance -- Attendance per game during this season, only for home matches
+Top Team Scorer -- Only includes league matches for that season
+Goalkeeper -- Goalkeeper with the most minutes in league play

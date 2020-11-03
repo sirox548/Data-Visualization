@@ -1,0 +1,53 @@
+Rk -- Rank
+This is a count of the rows from top to bottom.
+It is recalculated following the sorting of a column.
+Nation -- Nationality of the player.
+First, we check our records in international play at senior level.
+Then youth level.
+Then citizenship presented on wikipedia.
+Finally, we use their birthplace when available.
+Pos -- GK - Goalkeepers
+DF - Defenders
+MF - Midfielders
+FW - Forwards
+FB - Fullbacks
+LB - Left Backs
+RB - Right Backs
+CB - Center Backs
+DM - Defensive Midfielders
+CM - Central Midfielders
+LM - Left Midfielders
+RM - Right Midfielders
+WM - Wide Midfielders
+LW - Left Wingers
+RW - Right Wingers
+AM - Attacking Midfielders
+Age -- Age at the season start for league play
+Given on August 1 for winter leagues
+and February 1 for summer leagues.
+Born -- Year of birth
+Playing Time
+MP -- Matches Played
+Matches Played by the player or squad
+Starts -- Starts
+Game or games started by player
+Min -- Minutes
+Performance
+GA -- Goals Against
+GA90 -- Goals Against per 90 minutes
+SoTA -- Shots on Target Against
+Save% -- Save Percentage
+(Shots on Target Against - Goals Against)/Shots on Target Against
+Note that not all shots on target are stopped by the keeper, many will be stopped by defenders
+W -- Wins
+D -- Draws
+L -- Losses
+CS -- Clean Sheets
+Full matches by goalkeeper where no goals are allowed.
+CS% -- Clean Sheet Percentage
+Percentage of matches that result in clean sheets.
+Penalty Kicks
+PKatt -- Penalty Kicks Attempted
+PKA -- Penalty Kicks Allowed
+PKsv -- Penalty Kicks Saved
+PKm -- Penalty Kicks Missed
